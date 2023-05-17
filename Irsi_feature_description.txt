@@ -1,0 +1,7 @@
+Features
+---------
+sepal length in cm
+sepal width in cm
+------
+1: Iris Versicolour
+0: Not Iris Versicolour
